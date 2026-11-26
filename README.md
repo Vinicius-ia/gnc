@@ -1,0 +1,2 @@
+# gnc
+site de noticias
